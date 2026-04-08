@@ -1,0 +1,1 @@
+This folder contains all the information about marketing and sales strategies and reports for the near future

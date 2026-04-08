@@ -1,0 +1,1 @@
+This folder contains all the information about the investments/investors that we are going to have in the future

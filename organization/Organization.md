@@ -1,0 +1,1 @@
+This folder contains all the information regarding the handling and management in the organization as we grow on.

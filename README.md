@@ -1,1 +1,1 @@
-# maths-gym-obsidian
+This Obsidian Vault is all about Maths Gym and the specifics of working on it.
