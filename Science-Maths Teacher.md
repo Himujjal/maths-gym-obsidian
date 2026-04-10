@@ -6,5 +6,4 @@ JD:
 
 Options:
 1. Titu Das
-2. Me
-
+2. Me (per time only - 1 hour a day)

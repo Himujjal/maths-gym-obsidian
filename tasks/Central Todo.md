@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Active
 
-- [ ] 1 room in Jagiroad (Indus <-> jyotiniwas area)
+- [ ] [[1 room in Jagiroad]]
 - [ ] [[Science-Maths Teacher]]
 
 
